@@ -1,4 +1,4 @@
-# Hotel Samurai
+# Hotel Dablioerre
 
 Olá, tudo bem?
 
@@ -8,9 +8,6 @@ Segue abaixo mais detalhes do mesmo.
 
 ## Sobre o projeto
 
-Esse é um projeto totalmente focado para os alunos do curso de Front end Master da Dev Samurai.
-
-Caso tenha interesse em conhecer, o link é este aqui: [https://devsamurai.com.br](https://devsamurai.com.br)
 
 A ideia do projeto é de desenvolver uma aplicação (template) totalmente focada em empresas de turismos, ou seja, que forneçam opções de hospedagem para o usuário final.
 
@@ -47,10 +44,10 @@ Ficarei muito grato! :D
 
 ## Contato
 
-E-mail: carlos.contato00@gmail.com
+E-mail: wr.198400@gmail.com
 
-Website: [https://carloseduardo.dev](https://carloseduardo.dev)
+Website: willianpimenta.com
 
 Atenciosamente,
 
-Cadu.
+willian.
