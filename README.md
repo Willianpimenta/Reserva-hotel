@@ -21,16 +21,11 @@ As tecnologias que estão sendo usadas neste projeto são:
 
 Segue abaixo alguns screenshots do projeto:
 
-![Hotel ](./assets/img/screenshots/home-01.png)
-![Hotel ](./assets/img/screenshots/home-02.png)
-![Hotel ](./assets/img/screenshots/home-03.png)
-![Hotel ](./assets/img/screenshots/home-04.png)
-![Hotel ](./assets/img/screenshots/home-05.png)
-![Hotel ](./assets/img/screenshots/home-06.png)
-![Hotel ](./assets/img/screenshots/all-01.png)
-![Hotel ](./assets/img/screenshots/all-02.png)
-![Hotel ](./assets/img/screenshots/available-01.png)
-
+![Foto 1](assets/img/screenshots/screenshot.png)
+![Foto 2](assets/img/screenshots/screenshot1.png)
+![Foto 3](assets/img/screenshots/screenshot2.png)
+![Foto 4](assets/img/screenshots/screenshot3.png)
+![Foto 5](assets/img/screenshots/screenshot4.png)
 
 ## Status/Andamento
 
